@@ -1,0 +1,449 @@
+C:\Users\antho\OneDrive\Documents\winFormSchoolProjects\citech\citech\bin\Debug\net8.0-windows\citech.exe
+C:\Users\antho\OneDrive\Documents\winFormSchoolProjects\citech\citech\bin\Debug\net8.0-windows\citech.deps.json
+C:\Users\antho\OneDrive\Documents\winFormSchoolProjects\citech\citech\bin\Debug\net8.0-windows\citech.runtimeconfig.json
+C:\Users\antho\OneDrive\Documents\winFormSchoolProjects\citech\citech\bin\Debug\net8.0-windows\citech.dll
+C:\Users\antho\OneDrive\Documents\winFormSchoolProjects\citech\citech\bin\Debug\net8.0-windows\citech.pdb
+C:\Users\antho\OneDrive\Documents\winFormSchoolProjects\citech\citech\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\antho\OneDrive\Documents\winFormSchoolProjects\citech\citech\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\antho\OneDrive\Documents\winFormSchoolProjects\citech\citech\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\antho\OneDrive\Documents\winFormSchoolProjects\citech\citech\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\antho\OneDrive\Documents\winFormSchoolProjects\citech\citech\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\antho\OneDrive\Documents\winFormSchoolProjects\citech\citech\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\antho\OneDrive\Documents\winFormSchoolProjects\citech\citech\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\antho\OneDrive\Documents\winFormSchoolProjects\citech\citech\bin\Debug\net8.0-windows\System.Text.Json.dll
+C:\Users\antho\OneDrive\Documents\winFormSchoolProjects\citech\citech\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\antho\OneDrive\Documents\winFormSchoolProjects\citech\citech\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\antho\OneDrive\Documents\winFormSchoolProjects\citech\citech\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\antho\OneDrive\Documents\winFormSchoolProjects\citech\citech\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\antho\OneDrive\Documents\winFormSchoolProjects\citech\citech\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\antho\OneDrive\Documents\winFormSchoolProjects\citech\citech\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\antho\OneDrive\Documents\winFormSchoolProjects\citech\citech\obj\Debug\net8.0-windows\citech.vbproj.AssemblyReference.cache
+C:\Users\antho\OneDrive\Documents\winFormSchoolProjects\citech\citech\obj\Debug\net8.0-windows\citech.Form1.resources
+C:\Users\antho\OneDrive\Documents\winFormSchoolProjects\citech\citech\obj\Debug\net8.0-windows\citech.FormAdmin.resources
+C:\Users\antho\OneDrive\Documents\winFormSchoolProjects\citech\citech\obj\Debug\net8.0-windows\citech.FormStaff.resources
+C:\Users\antho\OneDrive\Documents\winFormSchoolProjects\citech\citech\obj\Debug\net8.0-windows\citech.vbproj.GenerateResource.cache
+C:\Users\antho\OneDrive\Documents\winFormSchoolProjects\citech\citech\obj\Debug\net8.0-windows\citech.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antho\OneDrive\Documents\winFormSchoolProjects\citech\citech\obj\Debug\net8.0-windows\citech.AssemblyInfoInputs.cache
+C:\Users\antho\OneDrive\Documents\winFormSchoolProjects\citech\citech\obj\Debug\net8.0-windows\citech.AssemblyInfo.vb
+C:\Users\antho\OneDrive\Documents\winFormSchoolProjects\citech\citech\obj\Debug\net8.0-windows\citech.vbproj.CoreCompileInputs.cache
+C:\Users\antho\OneDrive\Documents\winFormSchoolProjects\citech\citech\obj\Debug\net8.0-windows\citech.vbproj.Up2Date
+C:\Users\antho\OneDrive\Documents\winFormSchoolProjects\citech\citech\obj\Debug\net8.0-windows\citech.dll
+C:\Users\antho\OneDrive\Documents\winFormSchoolProjects\citech\citech\obj\Debug\net8.0-windows\refint\citech.dll
+C:\Users\antho\OneDrive\Documents\winFormSchoolProjects\citech\citech\obj\Debug\net8.0-windows\citech.pdb
+C:\Users\antho\OneDrive\Documents\winFormSchoolProjects\citech\citech\obj\Debug\net8.0-windows\citech.genruntimeconfig.cache
+C:\Users\antho\OneDrive\Documents\winFormSchoolProjects\citech\citech\obj\Debug\net8.0-windows\ref\citech.dll
+C:\Users\antho\OneDrive\Documents\winFormSchoolProjects\citech\citech\obj\Debug\net8.0-windows\citech.FormManageUsers.resources
+C:\Users\antho\OneDrive\Documents\winFormSchoolProjects\citech\citech\obj\Debug\net8.0-windows\citech.FormManageProducts.resources
+C:\Users\antho\OneDrive\Documents\winFormSchoolProjects\citech\citech\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\antho\OneDrive\Documents\winFormSchoolProjects\citech\citech\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\antho\OneDrive\Documents\winFormSchoolProjects\citech\citech\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\antho\OneDrive\Documents\winFormSchoolProjects\citech\citech\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\antho\OneDrive\Documents\winFormSchoolProjects\citech\citech\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\antho\OneDrive\Documents\winFormSchoolProjects\citech\citech\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\antho\OneDrive\Documents\winFormSchoolProjects\citech\citech\obj\Debug\net8.0-windows\citech.LandingPage.resources
+C:\Users\antho\OneDrive\Documents\winFormSchoolProjects\citech\citech\obj\Debug\net8.0-windows\citech.Resources.resources
+C:\Users\antho\OneDrive\Documents\winFormSchoolProjects\citech\citech\obj\Debug\net8.0-windows\citech.FormSalesOverview.resources
+C:\Users\Gian\Documents\citech-20241210T134709Z-001\citech\citech\bin\Debug\net8.0-windows\citech.exe
+C:\Users\Gian\Documents\citech-20241210T134709Z-001\citech\citech\bin\Debug\net8.0-windows\citech.deps.json
+C:\Users\Gian\Documents\citech-20241210T134709Z-001\citech\citech\bin\Debug\net8.0-windows\citech.runtimeconfig.json
+C:\Users\Gian\Documents\citech-20241210T134709Z-001\citech\citech\bin\Debug\net8.0-windows\citech.dll
+C:\Users\Gian\Documents\citech-20241210T134709Z-001\citech\citech\bin\Debug\net8.0-windows\citech.pdb
+C:\Users\Gian\Documents\citech-20241210T134709Z-001\citech\citech\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\Gian\Documents\citech-20241210T134709Z-001\citech\citech\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\Gian\Documents\citech-20241210T134709Z-001\citech\citech\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\Gian\Documents\citech-20241210T134709Z-001\citech\citech\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\Gian\Documents\citech-20241210T134709Z-001\citech\citech\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\Gian\Documents\citech-20241210T134709Z-001\citech\citech\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\Gian\Documents\citech-20241210T134709Z-001\citech\citech\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\Gian\Documents\citech-20241210T134709Z-001\citech\citech\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\Gian\Documents\citech-20241210T134709Z-001\citech\citech\bin\Debug\net8.0-windows\System.Text.Json.dll
+C:\Users\Gian\Documents\citech-20241210T134709Z-001\citech\citech\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\Gian\Documents\citech-20241210T134709Z-001\citech\citech\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\Gian\Documents\citech-20241210T134709Z-001\citech\citech\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\Gian\Documents\citech-20241210T134709Z-001\citech\citech\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\Gian\Documents\citech-20241210T134709Z-001\citech\citech\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\Gian\Documents\citech-20241210T134709Z-001\citech\citech\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\Gian\Documents\citech-20241210T134709Z-001\citech\citech\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Gian\Documents\citech-20241210T134709Z-001\citech\citech\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Gian\Documents\citech-20241210T134709Z-001\citech\citech\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Gian\Documents\citech-20241210T134709Z-001\citech\citech\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\Gian\Documents\citech-20241210T134709Z-001\citech\citech\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\Gian\Documents\citech-20241210T134709Z-001\citech\citech\obj\Debug\net8.0-windows\citech.vbproj.AssemblyReference.cache
+C:\Users\Gian\Documents\citech-20241210T134709Z-001\citech\citech\obj\Debug\net8.0-windows\citech.Form1.resources
+C:\Users\Gian\Documents\citech-20241210T134709Z-001\citech\citech\obj\Debug\net8.0-windows\citech.FormAdmin.resources
+C:\Users\Gian\Documents\citech-20241210T134709Z-001\citech\citech\obj\Debug\net8.0-windows\citech.FormManageProducts.resources
+C:\Users\Gian\Documents\citech-20241210T134709Z-001\citech\citech\obj\Debug\net8.0-windows\citech.FormManageUsers.resources
+C:\Users\Gian\Documents\citech-20241210T134709Z-001\citech\citech\obj\Debug\net8.0-windows\citech.FormSalesOverview.resources
+C:\Users\Gian\Documents\citech-20241210T134709Z-001\citech\citech\obj\Debug\net8.0-windows\citech.FormStaff.resources
+C:\Users\Gian\Documents\citech-20241210T134709Z-001\citech\citech\obj\Debug\net8.0-windows\citech.LandingPage.resources
+C:\Users\Gian\Documents\citech-20241210T134709Z-001\citech\citech\obj\Debug\net8.0-windows\citech.Resources.resources
+C:\Users\Gian\Documents\citech-20241210T134709Z-001\citech\citech\obj\Debug\net8.0-windows\citech.vbproj.GenerateResource.cache
+C:\Users\Gian\Documents\citech-20241210T134709Z-001\citech\citech\obj\Debug\net8.0-windows\citech.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gian\Documents\citech-20241210T134709Z-001\citech\citech\obj\Debug\net8.0-windows\citech.AssemblyInfoInputs.cache
+C:\Users\Gian\Documents\citech-20241210T134709Z-001\citech\citech\obj\Debug\net8.0-windows\citech.AssemblyInfo.vb
+C:\Users\Gian\Documents\citech-20241210T134709Z-001\citech\citech\obj\Debug\net8.0-windows\citech.vbproj.CoreCompileInputs.cache
+C:\Users\Gian\Documents\citech-20241210T134709Z-001\citech\citech\obj\Debug\net8.0-windows\citech.vbproj.Up2Date
+C:\Users\Gian\Documents\citech-20241210T134709Z-001\citech\citech\obj\Debug\net8.0-windows\citech.dll
+C:\Users\Gian\Documents\citech-20241210T134709Z-001\citech\citech\obj\Debug\net8.0-windows\refint\citech.dll
+C:\Users\Gian\Documents\citech-20241210T134709Z-001\citech\citech\obj\Debug\net8.0-windows\citech.pdb
+C:\Users\Gian\Documents\citech-20241210T134709Z-001\citech\citech\obj\Debug\net8.0-windows\citech.genruntimeconfig.cache
+C:\Users\Gian\Documents\citech-20241210T134709Z-001\citech\citech\obj\Debug\net8.0-windows\ref\citech.dll
+C:\Users\antho\Downloads\citech-20241210T134709Z-001\citech-20241210T134709Z-001\citech\citech\bin\Debug\net8.0-windows\citech.exe
+C:\Users\antho\Downloads\citech-20241210T134709Z-001\citech-20241210T134709Z-001\citech\citech\bin\Debug\net8.0-windows\citech.deps.json
+C:\Users\antho\Downloads\citech-20241210T134709Z-001\citech-20241210T134709Z-001\citech\citech\bin\Debug\net8.0-windows\citech.runtimeconfig.json
+C:\Users\antho\Downloads\citech-20241210T134709Z-001\citech-20241210T134709Z-001\citech\citech\bin\Debug\net8.0-windows\citech.dll
+C:\Users\antho\Downloads\citech-20241210T134709Z-001\citech-20241210T134709Z-001\citech\citech\bin\Debug\net8.0-windows\citech.pdb
+C:\Users\antho\Downloads\citech-20241210T134709Z-001\citech-20241210T134709Z-001\citech\citech\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\antho\Downloads\citech-20241210T134709Z-001\citech-20241210T134709Z-001\citech\citech\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\antho\Downloads\citech-20241210T134709Z-001\citech-20241210T134709Z-001\citech\citech\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\antho\Downloads\citech-20241210T134709Z-001\citech-20241210T134709Z-001\citech\citech\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\antho\Downloads\citech-20241210T134709Z-001\citech-20241210T134709Z-001\citech\citech\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\antho\Downloads\citech-20241210T134709Z-001\citech-20241210T134709Z-001\citech\citech\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\antho\Downloads\citech-20241210T134709Z-001\citech-20241210T134709Z-001\citech\citech\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\antho\Downloads\citech-20241210T134709Z-001\citech-20241210T134709Z-001\citech\citech\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\antho\Downloads\citech-20241210T134709Z-001\citech-20241210T134709Z-001\citech\citech\bin\Debug\net8.0-windows\System.Text.Json.dll
+C:\Users\antho\Downloads\citech-20241210T134709Z-001\citech-20241210T134709Z-001\citech\citech\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\antho\Downloads\citech-20241210T134709Z-001\citech-20241210T134709Z-001\citech\citech\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\antho\Downloads\citech-20241210T134709Z-001\citech-20241210T134709Z-001\citech\citech\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\antho\Downloads\citech-20241210T134709Z-001\citech-20241210T134709Z-001\citech\citech\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\antho\Downloads\citech-20241210T134709Z-001\citech-20241210T134709Z-001\citech\citech\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\antho\Downloads\citech-20241210T134709Z-001\citech-20241210T134709Z-001\citech\citech\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\antho\Downloads\citech-20241210T134709Z-001\citech-20241210T134709Z-001\citech\citech\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\antho\Downloads\citech-20241210T134709Z-001\citech-20241210T134709Z-001\citech\citech\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\antho\Downloads\citech-20241210T134709Z-001\citech-20241210T134709Z-001\citech\citech\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\antho\Downloads\citech-20241210T134709Z-001\citech-20241210T134709Z-001\citech\citech\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\antho\Downloads\citech-20241210T134709Z-001\citech-20241210T134709Z-001\citech\citech\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\antho\Downloads\citech-20241210T134709Z-001\citech-20241210T134709Z-001\citech\citech\obj\Debug\net8.0-windows\citech.vbproj.AssemblyReference.cache
+C:\Users\antho\Downloads\citech-20241210T134709Z-001\citech-20241210T134709Z-001\citech\citech\obj\Debug\net8.0-windows\citech.Form1.resources
+C:\Users\antho\Downloads\citech-20241210T134709Z-001\citech-20241210T134709Z-001\citech\citech\obj\Debug\net8.0-windows\citech.FormAdmin.resources
+C:\Users\antho\Downloads\citech-20241210T134709Z-001\citech-20241210T134709Z-001\citech\citech\obj\Debug\net8.0-windows\citech.FormManageProducts.resources
+C:\Users\antho\Downloads\citech-20241210T134709Z-001\citech-20241210T134709Z-001\citech\citech\obj\Debug\net8.0-windows\citech.FormManageUsers.resources
+C:\Users\antho\Downloads\citech-20241210T134709Z-001\citech-20241210T134709Z-001\citech\citech\obj\Debug\net8.0-windows\citech.FormSalesOverview.resources
+C:\Users\antho\Downloads\citech-20241210T134709Z-001\citech-20241210T134709Z-001\citech\citech\obj\Debug\net8.0-windows\citech.FormStaff.resources
+C:\Users\antho\Downloads\citech-20241210T134709Z-001\citech-20241210T134709Z-001\citech\citech\obj\Debug\net8.0-windows\citech.LandingPage.resources
+C:\Users\antho\Downloads\citech-20241210T134709Z-001\citech-20241210T134709Z-001\citech\citech\obj\Debug\net8.0-windows\citech.Resources.resources
+C:\Users\antho\Downloads\citech-20241210T134709Z-001\citech-20241210T134709Z-001\citech\citech\obj\Debug\net8.0-windows\citech.vbproj.GenerateResource.cache
+C:\Users\antho\Downloads\citech-20241210T134709Z-001\citech-20241210T134709Z-001\citech\citech\obj\Debug\net8.0-windows\citech.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antho\Downloads\citech-20241210T134709Z-001\citech-20241210T134709Z-001\citech\citech\obj\Debug\net8.0-windows\citech.AssemblyInfoInputs.cache
+C:\Users\antho\Downloads\citech-20241210T134709Z-001\citech-20241210T134709Z-001\citech\citech\obj\Debug\net8.0-windows\citech.AssemblyInfo.vb
+C:\Users\antho\Downloads\citech-20241210T134709Z-001\citech-20241210T134709Z-001\citech\citech\obj\Debug\net8.0-windows\citech.vbproj.CoreCompileInputs.cache
+C:\Users\antho\Downloads\citech-20241210T134709Z-001\citech-20241210T134709Z-001\citech\citech\obj\Debug\net8.0-windows\citech.vbproj.Up2Date
+C:\Users\antho\Downloads\citech-20241210T134709Z-001\citech-20241210T134709Z-001\citech\citech\obj\Debug\net8.0-windows\citech.dll
+C:\Users\antho\Downloads\citech-20241210T134709Z-001\citech-20241210T134709Z-001\citech\citech\obj\Debug\net8.0-windows\refint\citech.dll
+C:\Users\antho\Downloads\citech-20241210T134709Z-001\citech-20241210T134709Z-001\citech\citech\obj\Debug\net8.0-windows\citech.pdb
+C:\Users\antho\Downloads\citech-20241210T134709Z-001\citech-20241210T134709Z-001\citech\citech\obj\Debug\net8.0-windows\citech.genruntimeconfig.cache
+C:\Users\antho\Downloads\citech-20241210T134709Z-001\citech-20241210T134709Z-001\citech\citech\obj\Debug\net8.0-windows\ref\citech.dll
+C:\Users\antho\Downloads\citech-2\citech-20241210T134709Z-001\citech\citech\bin\Debug\net8.0-windows\citech.exe
+C:\Users\antho\Downloads\citech-2\citech-20241210T134709Z-001\citech\citech\bin\Debug\net8.0-windows\citech.deps.json
+C:\Users\antho\Downloads\citech-2\citech-20241210T134709Z-001\citech\citech\bin\Debug\net8.0-windows\citech.runtimeconfig.json
+C:\Users\antho\Downloads\citech-2\citech-20241210T134709Z-001\citech\citech\bin\Debug\net8.0-windows\citech.dll
+C:\Users\antho\Downloads\citech-2\citech-20241210T134709Z-001\citech\citech\bin\Debug\net8.0-windows\citech.pdb
+C:\Users\antho\Downloads\citech-2\citech-20241210T134709Z-001\citech\citech\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\antho\Downloads\citech-2\citech-20241210T134709Z-001\citech\citech\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\antho\Downloads\citech-2\citech-20241210T134709Z-001\citech\citech\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\antho\Downloads\citech-2\citech-20241210T134709Z-001\citech\citech\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\antho\Downloads\citech-2\citech-20241210T134709Z-001\citech\citech\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\antho\Downloads\citech-2\citech-20241210T134709Z-001\citech\citech\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\antho\Downloads\citech-2\citech-20241210T134709Z-001\citech\citech\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\antho\Downloads\citech-2\citech-20241210T134709Z-001\citech\citech\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\antho\Downloads\citech-2\citech-20241210T134709Z-001\citech\citech\bin\Debug\net8.0-windows\System.Text.Json.dll
+C:\Users\antho\Downloads\citech-2\citech-20241210T134709Z-001\citech\citech\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\antho\Downloads\citech-2\citech-20241210T134709Z-001\citech\citech\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\antho\Downloads\citech-2\citech-20241210T134709Z-001\citech\citech\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\antho\Downloads\citech-2\citech-20241210T134709Z-001\citech\citech\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\antho\Downloads\citech-2\citech-20241210T134709Z-001\citech\citech\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\antho\Downloads\citech-2\citech-20241210T134709Z-001\citech\citech\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\antho\Downloads\citech-2\citech-20241210T134709Z-001\citech\citech\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\antho\Downloads\citech-2\citech-20241210T134709Z-001\citech\citech\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\antho\Downloads\citech-2\citech-20241210T134709Z-001\citech\citech\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\antho\Downloads\citech-2\citech-20241210T134709Z-001\citech\citech\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\antho\Downloads\citech-2\citech-20241210T134709Z-001\citech\citech\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\antho\Downloads\citech-2\citech-20241210T134709Z-001\citech\citech\obj\Debug\net8.0-windows\citech.vbproj.AssemblyReference.cache
+C:\Users\antho\Downloads\citech-2\citech-20241210T134709Z-001\citech\citech\obj\Debug\net8.0-windows\citech.Form1.resources
+C:\Users\antho\Downloads\citech-2\citech-20241210T134709Z-001\citech\citech\obj\Debug\net8.0-windows\citech.FormAdmin.resources
+C:\Users\antho\Downloads\citech-2\citech-20241210T134709Z-001\citech\citech\obj\Debug\net8.0-windows\citech.FormManageProducts.resources
+C:\Users\antho\Downloads\citech-2\citech-20241210T134709Z-001\citech\citech\obj\Debug\net8.0-windows\citech.FormManageUsers.resources
+C:\Users\antho\Downloads\citech-2\citech-20241210T134709Z-001\citech\citech\obj\Debug\net8.0-windows\citech.FormSalesOverview.resources
+C:\Users\antho\Downloads\citech-2\citech-20241210T134709Z-001\citech\citech\obj\Debug\net8.0-windows\citech.FormStaff.resources
+C:\Users\antho\Downloads\citech-2\citech-20241210T134709Z-001\citech\citech\obj\Debug\net8.0-windows\citech.LandingPage.resources
+C:\Users\antho\Downloads\citech-2\citech-20241210T134709Z-001\citech\citech\obj\Debug\net8.0-windows\citech.Resources.resources
+C:\Users\antho\Downloads\citech-2\citech-20241210T134709Z-001\citech\citech\obj\Debug\net8.0-windows\citech.vbproj.GenerateResource.cache
+C:\Users\antho\Downloads\citech-2\citech-20241210T134709Z-001\citech\citech\obj\Debug\net8.0-windows\citech.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antho\Downloads\citech-2\citech-20241210T134709Z-001\citech\citech\obj\Debug\net8.0-windows\citech.AssemblyInfoInputs.cache
+C:\Users\antho\Downloads\citech-2\citech-20241210T134709Z-001\citech\citech\obj\Debug\net8.0-windows\citech.AssemblyInfo.vb
+C:\Users\antho\Downloads\citech-2\citech-20241210T134709Z-001\citech\citech\obj\Debug\net8.0-windows\citech.vbproj.CoreCompileInputs.cache
+C:\Users\antho\Downloads\citech-2\citech-20241210T134709Z-001\citech\citech\obj\Debug\net8.0-windows\citech.vbproj.Up2Date
+C:\Users\antho\Downloads\citech-2\citech-20241210T134709Z-001\citech\citech\obj\Debug\net8.0-windows\citech.dll
+C:\Users\antho\Downloads\citech-2\citech-20241210T134709Z-001\citech\citech\obj\Debug\net8.0-windows\refint\citech.dll
+C:\Users\antho\Downloads\citech-2\citech-20241210T134709Z-001\citech\citech\obj\Debug\net8.0-windows\citech.pdb
+C:\Users\antho\Downloads\citech-2\citech-20241210T134709Z-001\citech\citech\obj\Debug\net8.0-windows\citech.genruntimeconfig.cache
+C:\Users\antho\Downloads\citech-2\citech-20241210T134709Z-001\citech\citech\obj\Debug\net8.0-windows\ref\citech.dll
+C:\Users\antho\Downloads\citech-2 (1)\citech-2\citech-20241210T134709Z-001\citech\citech\bin\Debug\net8.0-windows\citech.exe
+C:\Users\antho\Downloads\citech-2 (1)\citech-2\citech-20241210T134709Z-001\citech\citech\bin\Debug\net8.0-windows\citech.deps.json
+C:\Users\antho\Downloads\citech-2 (1)\citech-2\citech-20241210T134709Z-001\citech\citech\bin\Debug\net8.0-windows\citech.runtimeconfig.json
+C:\Users\antho\Downloads\citech-2 (1)\citech-2\citech-20241210T134709Z-001\citech\citech\bin\Debug\net8.0-windows\citech.dll
+C:\Users\antho\Downloads\citech-2 (1)\citech-2\citech-20241210T134709Z-001\citech\citech\bin\Debug\net8.0-windows\citech.pdb
+C:\Users\antho\Downloads\citech-2 (1)\citech-2\citech-20241210T134709Z-001\citech\citech\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\antho\Downloads\citech-2 (1)\citech-2\citech-20241210T134709Z-001\citech\citech\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\antho\Downloads\citech-2 (1)\citech-2\citech-20241210T134709Z-001\citech\citech\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\antho\Downloads\citech-2 (1)\citech-2\citech-20241210T134709Z-001\citech\citech\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\antho\Downloads\citech-2 (1)\citech-2\citech-20241210T134709Z-001\citech\citech\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\antho\Downloads\citech-2 (1)\citech-2\citech-20241210T134709Z-001\citech\citech\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\antho\Downloads\citech-2 (1)\citech-2\citech-20241210T134709Z-001\citech\citech\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\antho\Downloads\citech-2 (1)\citech-2\citech-20241210T134709Z-001\citech\citech\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\antho\Downloads\citech-2 (1)\citech-2\citech-20241210T134709Z-001\citech\citech\bin\Debug\net8.0-windows\System.Text.Json.dll
+C:\Users\antho\Downloads\citech-2 (1)\citech-2\citech-20241210T134709Z-001\citech\citech\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\antho\Downloads\citech-2 (1)\citech-2\citech-20241210T134709Z-001\citech\citech\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\antho\Downloads\citech-2 (1)\citech-2\citech-20241210T134709Z-001\citech\citech\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\antho\Downloads\citech-2 (1)\citech-2\citech-20241210T134709Z-001\citech\citech\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\antho\Downloads\citech-2 (1)\citech-2\citech-20241210T134709Z-001\citech\citech\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\antho\Downloads\citech-2 (1)\citech-2\citech-20241210T134709Z-001\citech\citech\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\antho\Downloads\citech-2 (1)\citech-2\citech-20241210T134709Z-001\citech\citech\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\antho\Downloads\citech-2 (1)\citech-2\citech-20241210T134709Z-001\citech\citech\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\antho\Downloads\citech-2 (1)\citech-2\citech-20241210T134709Z-001\citech\citech\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\antho\Downloads\citech-2 (1)\citech-2\citech-20241210T134709Z-001\citech\citech\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\antho\Downloads\citech-2 (1)\citech-2\citech-20241210T134709Z-001\citech\citech\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\antho\Downloads\citech-2 (1)\citech-2\citech-20241210T134709Z-001\citech\citech\obj\Debug\net8.0-windows\citech.vbproj.AssemblyReference.cache
+C:\Users\antho\Downloads\citech-2 (1)\citech-2\citech-20241210T134709Z-001\citech\citech\obj\Debug\net8.0-windows\citech.Form1.resources
+C:\Users\antho\Downloads\citech-2 (1)\citech-2\citech-20241210T134709Z-001\citech\citech\obj\Debug\net8.0-windows\citech.FormAdmin.resources
+C:\Users\antho\Downloads\citech-2 (1)\citech-2\citech-20241210T134709Z-001\citech\citech\obj\Debug\net8.0-windows\citech.FormManageProducts.resources
+C:\Users\antho\Downloads\citech-2 (1)\citech-2\citech-20241210T134709Z-001\citech\citech\obj\Debug\net8.0-windows\citech.FormManageUsers.resources
+C:\Users\antho\Downloads\citech-2 (1)\citech-2\citech-20241210T134709Z-001\citech\citech\obj\Debug\net8.0-windows\citech.FormSalesOverview.resources
+C:\Users\antho\Downloads\citech-2 (1)\citech-2\citech-20241210T134709Z-001\citech\citech\obj\Debug\net8.0-windows\citech.FormStaff.resources
+C:\Users\antho\Downloads\citech-2 (1)\citech-2\citech-20241210T134709Z-001\citech\citech\obj\Debug\net8.0-windows\citech.LandingPage.resources
+C:\Users\antho\Downloads\citech-2 (1)\citech-2\citech-20241210T134709Z-001\citech\citech\obj\Debug\net8.0-windows\citech.Resources.resources
+C:\Users\antho\Downloads\citech-2 (1)\citech-2\citech-20241210T134709Z-001\citech\citech\obj\Debug\net8.0-windows\citech.vbproj.GenerateResource.cache
+C:\Users\antho\Downloads\citech-2 (1)\citech-2\citech-20241210T134709Z-001\citech\citech\obj\Debug\net8.0-windows\citech.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antho\Downloads\citech-2 (1)\citech-2\citech-20241210T134709Z-001\citech\citech\obj\Debug\net8.0-windows\citech.AssemblyInfoInputs.cache
+C:\Users\antho\Downloads\citech-2 (1)\citech-2\citech-20241210T134709Z-001\citech\citech\obj\Debug\net8.0-windows\citech.AssemblyInfo.vb
+C:\Users\antho\Downloads\citech-2 (1)\citech-2\citech-20241210T134709Z-001\citech\citech\obj\Debug\net8.0-windows\citech.vbproj.CoreCompileInputs.cache
+C:\Users\antho\Downloads\citech-2 (1)\citech-2\citech-20241210T134709Z-001\citech\citech\obj\Debug\net8.0-windows\citech.vbproj.Up2Date
+C:\Users\antho\Downloads\citech-2 (1)\citech-2\citech-20241210T134709Z-001\citech\citech\obj\Debug\net8.0-windows\citech.dll
+C:\Users\antho\Downloads\citech-2 (1)\citech-2\citech-20241210T134709Z-001\citech\citech\obj\Debug\net8.0-windows\refint\citech.dll
+C:\Users\antho\Downloads\citech-2 (1)\citech-2\citech-20241210T134709Z-001\citech\citech\obj\Debug\net8.0-windows\citech.pdb
+C:\Users\antho\Downloads\citech-2 (1)\citech-2\citech-20241210T134709Z-001\citech\citech\obj\Debug\net8.0-windows\citech.genruntimeconfig.cache
+C:\Users\antho\Downloads\citech-2 (1)\citech-2\citech-20241210T134709Z-001\citech\citech\obj\Debug\net8.0-windows\ref\citech.dll
+C:\Users\USER\Downloads\citech\citech\bin\Debug\net8.0-windows\citech.exe
+C:\Users\USER\Downloads\citech\citech\bin\Debug\net8.0-windows\citech.deps.json
+C:\Users\USER\Downloads\citech\citech\bin\Debug\net8.0-windows\citech.runtimeconfig.json
+C:\Users\USER\Downloads\citech\citech\bin\Debug\net8.0-windows\citech.dll
+C:\Users\USER\Downloads\citech\citech\bin\Debug\net8.0-windows\citech.pdb
+C:\Users\USER\Downloads\citech\citech\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\USER\Downloads\citech\citech\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\USER\Downloads\citech\citech\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\USER\Downloads\citech\citech\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\USER\Downloads\citech\citech\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\USER\Downloads\citech\citech\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\USER\Downloads\citech\citech\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\USER\Downloads\citech\citech\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\USER\Downloads\citech\citech\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\USER\Downloads\citech\citech\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\USER\Downloads\citech\citech\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\USER\Downloads\citech\citech\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\USER\Downloads\citech\citech\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\USER\Downloads\citech\citech\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\USER\Downloads\citech\citech\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\USER\Downloads\citech\citech\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\USER\Downloads\citech\citech\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\USER\Downloads\citech\citech\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\USER\Downloads\citech\citech\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\USER\Downloads\citech\citech\obj\Debug\net8.0-windows\citech.vbproj.AssemblyReference.cache
+C:\Users\USER\Downloads\citech\citech\obj\Debug\net8.0-windows\citech.Form1.resources
+C:\Users\USER\Downloads\citech\citech\obj\Debug\net8.0-windows\citech.FormAdmin.resources
+C:\Users\USER\Downloads\citech\citech\obj\Debug\net8.0-windows\citech.FormManageProducts.resources
+C:\Users\USER\Downloads\citech\citech\obj\Debug\net8.0-windows\citech.FormManageUsers.resources
+C:\Users\USER\Downloads\citech\citech\obj\Debug\net8.0-windows\citech.FormSalesOverview.resources
+C:\Users\USER\Downloads\citech\citech\obj\Debug\net8.0-windows\citech.FormStaff.resources
+C:\Users\USER\Downloads\citech\citech\obj\Debug\net8.0-windows\citech.LandingPage.resources
+C:\Users\USER\Downloads\citech\citech\obj\Debug\net8.0-windows\citech.Resources.resources
+C:\Users\USER\Downloads\citech\citech\obj\Debug\net8.0-windows\citech.vbproj.GenerateResource.cache
+C:\Users\USER\Downloads\citech\citech\obj\Debug\net8.0-windows\citech.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Downloads\citech\citech\obj\Debug\net8.0-windows\citech.AssemblyInfoInputs.cache
+C:\Users\USER\Downloads\citech\citech\obj\Debug\net8.0-windows\citech.AssemblyInfo.vb
+C:\Users\USER\Downloads\citech\citech\obj\Debug\net8.0-windows\citech.vbproj.CoreCompileInputs.cache
+C:\Users\USER\Downloads\citech\citech\obj\Debug\net8.0-windows\citech.vbproj.Up2Date
+C:\Users\USER\Downloads\citech\citech\obj\Debug\net8.0-windows\citech.dll
+C:\Users\USER\Downloads\citech\citech\obj\Debug\net8.0-windows\refint\citech.dll
+C:\Users\USER\Downloads\citech\citech\obj\Debug\net8.0-windows\citech.pdb
+C:\Users\USER\Downloads\citech\citech\obj\Debug\net8.0-windows\citech.genruntimeconfig.cache
+C:\Users\USER\Downloads\citech\citech\obj\Debug\net8.0-windows\ref\citech.dll
+C:\Users\Gian\Documents\citech\citech\citech\bin\Debug\net8.0-windows\citech.exe
+C:\Users\Gian\Documents\citech\citech\citech\bin\Debug\net8.0-windows\citech.deps.json
+C:\Users\Gian\Documents\citech\citech\citech\bin\Debug\net8.0-windows\citech.runtimeconfig.json
+C:\Users\Gian\Documents\citech\citech\citech\bin\Debug\net8.0-windows\citech.dll
+C:\Users\Gian\Documents\citech\citech\citech\bin\Debug\net8.0-windows\citech.pdb
+C:\Users\Gian\Documents\citech\citech\citech\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\Gian\Documents\citech\citech\citech\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\Gian\Documents\citech\citech\citech\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\Gian\Documents\citech\citech\citech\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\Gian\Documents\citech\citech\citech\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\Gian\Documents\citech\citech\citech\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\Gian\Documents\citech\citech\citech\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\Gian\Documents\citech\citech\citech\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\Gian\Documents\citech\citech\citech\bin\Debug\net8.0-windows\System.Text.Json.dll
+C:\Users\Gian\Documents\citech\citech\citech\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\Gian\Documents\citech\citech\citech\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\Gian\Documents\citech\citech\citech\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\Gian\Documents\citech\citech\citech\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\Gian\Documents\citech\citech\citech\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\Gian\Documents\citech\citech\citech\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\Gian\Documents\citech\citech\citech\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Gian\Documents\citech\citech\citech\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Gian\Documents\citech\citech\citech\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Gian\Documents\citech\citech\citech\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\Gian\Documents\citech\citech\citech\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\Gian\Documents\citech\citech\citech\obj\Debug\net8.0-windows\citech.vbproj.AssemblyReference.cache
+C:\Users\Gian\Documents\citech\citech\citech\obj\Debug\net8.0-windows\citech.Form1.resources
+C:\Users\Gian\Documents\citech\citech\citech\obj\Debug\net8.0-windows\citech.FormAdmin.resources
+C:\Users\Gian\Documents\citech\citech\citech\obj\Debug\net8.0-windows\citech.FormManageProducts.resources
+C:\Users\Gian\Documents\citech\citech\citech\obj\Debug\net8.0-windows\citech.FormManageUsers.resources
+C:\Users\Gian\Documents\citech\citech\citech\obj\Debug\net8.0-windows\citech.FormSalesOverview.resources
+C:\Users\Gian\Documents\citech\citech\citech\obj\Debug\net8.0-windows\citech.FormStaff.resources
+C:\Users\Gian\Documents\citech\citech\citech\obj\Debug\net8.0-windows\citech.LandingPage.resources
+C:\Users\Gian\Documents\citech\citech\citech\obj\Debug\net8.0-windows\citech.Resources.resources
+C:\Users\Gian\Documents\citech\citech\citech\obj\Debug\net8.0-windows\citech.vbproj.GenerateResource.cache
+C:\Users\Gian\Documents\citech\citech\citech\obj\Debug\net8.0-windows\citech.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gian\Documents\citech\citech\citech\obj\Debug\net8.0-windows\citech.AssemblyInfoInputs.cache
+C:\Users\Gian\Documents\citech\citech\citech\obj\Debug\net8.0-windows\citech.AssemblyInfo.vb
+C:\Users\Gian\Documents\citech\citech\citech\obj\Debug\net8.0-windows\citech.vbproj.CoreCompileInputs.cache
+C:\Users\Gian\Documents\citech\citech\citech\obj\Debug\net8.0-windows\citech.vbproj.Up2Date
+C:\Users\Gian\Documents\citech\citech\citech\obj\Debug\net8.0-windows\citech.dll
+C:\Users\Gian\Documents\citech\citech\citech\obj\Debug\net8.0-windows\refint\citech.dll
+C:\Users\Gian\Documents\citech\citech\citech\obj\Debug\net8.0-windows\citech.pdb
+C:\Users\Gian\Documents\citech\citech\citech\obj\Debug\net8.0-windows\citech.genruntimeconfig.cache
+C:\Users\Gian\Documents\citech\citech\citech\obj\Debug\net8.0-windows\ref\citech.dll
+C:\Users\antho\Downloads\citech\citech\citech\citech\bin\Debug\net8.0-windows\citech.exe
+C:\Users\antho\Downloads\citech\citech\citech\citech\bin\Debug\net8.0-windows\citech.deps.json
+C:\Users\antho\Downloads\citech\citech\citech\citech\bin\Debug\net8.0-windows\citech.runtimeconfig.json
+C:\Users\antho\Downloads\citech\citech\citech\citech\bin\Debug\net8.0-windows\citech.dll
+C:\Users\antho\Downloads\citech\citech\citech\citech\bin\Debug\net8.0-windows\citech.pdb
+C:\Users\antho\Downloads\citech\citech\citech\citech\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\antho\Downloads\citech\citech\citech\citech\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\antho\Downloads\citech\citech\citech\citech\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\antho\Downloads\citech\citech\citech\citech\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\antho\Downloads\citech\citech\citech\citech\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\antho\Downloads\citech\citech\citech\citech\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\antho\Downloads\citech\citech\citech\citech\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\antho\Downloads\citech\citech\citech\citech\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\antho\Downloads\citech\citech\citech\citech\bin\Debug\net8.0-windows\System.Text.Json.dll
+C:\Users\antho\Downloads\citech\citech\citech\citech\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\antho\Downloads\citech\citech\citech\citech\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\antho\Downloads\citech\citech\citech\citech\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\antho\Downloads\citech\citech\citech\citech\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\antho\Downloads\citech\citech\citech\citech\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\antho\Downloads\citech\citech\citech\citech\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\antho\Downloads\citech\citech\citech\citech\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\antho\Downloads\citech\citech\citech\citech\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\antho\Downloads\citech\citech\citech\citech\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\antho\Downloads\citech\citech\citech\citech\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\antho\Downloads\citech\citech\citech\citech\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\antho\Downloads\citech\citech\citech\citech\obj\Debug\net8.0-windows\citech.vbproj.AssemblyReference.cache
+C:\Users\antho\Downloads\citech\citech\citech\citech\obj\Debug\net8.0-windows\citech.Form1.resources
+C:\Users\antho\Downloads\citech\citech\citech\citech\obj\Debug\net8.0-windows\citech.FormAdmin.resources
+C:\Users\antho\Downloads\citech\citech\citech\citech\obj\Debug\net8.0-windows\citech.FormManageProducts.resources
+C:\Users\antho\Downloads\citech\citech\citech\citech\obj\Debug\net8.0-windows\citech.FormManageUsers.resources
+C:\Users\antho\Downloads\citech\citech\citech\citech\obj\Debug\net8.0-windows\citech.FormSalesOverview.resources
+C:\Users\antho\Downloads\citech\citech\citech\citech\obj\Debug\net8.0-windows\citech.FormStaff.resources
+C:\Users\antho\Downloads\citech\citech\citech\citech\obj\Debug\net8.0-windows\citech.LandingPage.resources
+C:\Users\antho\Downloads\citech\citech\citech\citech\obj\Debug\net8.0-windows\citech.Resources.resources
+C:\Users\antho\Downloads\citech\citech\citech\citech\obj\Debug\net8.0-windows\citech.vbproj.GenerateResource.cache
+C:\Users\antho\Downloads\citech\citech\citech\citech\obj\Debug\net8.0-windows\citech.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antho\Downloads\citech\citech\citech\citech\obj\Debug\net8.0-windows\citech.AssemblyInfoInputs.cache
+C:\Users\antho\Downloads\citech\citech\citech\citech\obj\Debug\net8.0-windows\citech.AssemblyInfo.vb
+C:\Users\antho\Downloads\citech\citech\citech\citech\obj\Debug\net8.0-windows\citech.vbproj.CoreCompileInputs.cache
+C:\Users\antho\Downloads\citech\citech\citech\citech\obj\Debug\net8.0-windows\citech.vbproj.Up2Date
+C:\Users\antho\Downloads\citech\citech\citech\citech\obj\Debug\net8.0-windows\citech.dll
+C:\Users\antho\Downloads\citech\citech\citech\citech\obj\Debug\net8.0-windows\refint\citech.dll
+C:\Users\antho\Downloads\citech\citech\citech\citech\obj\Debug\net8.0-windows\citech.pdb
+C:\Users\antho\Downloads\citech\citech\citech\citech\obj\Debug\net8.0-windows\citech.genruntimeconfig.cache
+C:\Users\antho\Downloads\citech\citech\citech\citech\obj\Debug\net8.0-windows\ref\citech.dll
+C:\Users\Gian\Documents\citech-20241217T122919Z-001\citech\citech\citech\citech\bin\Debug\net8.0-windows\citech.exe
+C:\Users\Gian\Documents\citech-20241217T122919Z-001\citech\citech\citech\citech\bin\Debug\net8.0-windows\citech.deps.json
+C:\Users\Gian\Documents\citech-20241217T122919Z-001\citech\citech\citech\citech\bin\Debug\net8.0-windows\citech.runtimeconfig.json
+C:\Users\Gian\Documents\citech-20241217T122919Z-001\citech\citech\citech\citech\bin\Debug\net8.0-windows\citech.dll
+C:\Users\Gian\Documents\citech-20241217T122919Z-001\citech\citech\citech\citech\bin\Debug\net8.0-windows\citech.pdb
+C:\Users\Gian\Documents\citech-20241217T122919Z-001\citech\citech\citech\citech\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\Gian\Documents\citech-20241217T122919Z-001\citech\citech\citech\citech\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\Gian\Documents\citech-20241217T122919Z-001\citech\citech\citech\citech\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\Gian\Documents\citech-20241217T122919Z-001\citech\citech\citech\citech\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\Gian\Documents\citech-20241217T122919Z-001\citech\citech\citech\citech\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\Gian\Documents\citech-20241217T122919Z-001\citech\citech\citech\citech\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\Gian\Documents\citech-20241217T122919Z-001\citech\citech\citech\citech\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\Gian\Documents\citech-20241217T122919Z-001\citech\citech\citech\citech\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\Gian\Documents\citech-20241217T122919Z-001\citech\citech\citech\citech\bin\Debug\net8.0-windows\System.Text.Json.dll
+C:\Users\Gian\Documents\citech-20241217T122919Z-001\citech\citech\citech\citech\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\Gian\Documents\citech-20241217T122919Z-001\citech\citech\citech\citech\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\Gian\Documents\citech-20241217T122919Z-001\citech\citech\citech\citech\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\Gian\Documents\citech-20241217T122919Z-001\citech\citech\citech\citech\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\Gian\Documents\citech-20241217T122919Z-001\citech\citech\citech\citech\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\Gian\Documents\citech-20241217T122919Z-001\citech\citech\citech\citech\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\Gian\Documents\citech-20241217T122919Z-001\citech\citech\citech\citech\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Gian\Documents\citech-20241217T122919Z-001\citech\citech\citech\citech\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Gian\Documents\citech-20241217T122919Z-001\citech\citech\citech\citech\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Gian\Documents\citech-20241217T122919Z-001\citech\citech\citech\citech\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\Gian\Documents\citech-20241217T122919Z-001\citech\citech\citech\citech\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\Gian\Documents\citech-20241217T122919Z-001\citech\citech\citech\citech\obj\Debug\net8.0-windows\citech.vbproj.AssemblyReference.cache
+C:\Users\Gian\Documents\citech-20241217T122919Z-001\citech\citech\citech\citech\obj\Debug\net8.0-windows\citech.Form1.resources
+C:\Users\Gian\Documents\citech-20241217T122919Z-001\citech\citech\citech\citech\obj\Debug\net8.0-windows\citech.FormAdmin.resources
+C:\Users\Gian\Documents\citech-20241217T122919Z-001\citech\citech\citech\citech\obj\Debug\net8.0-windows\citech.FormManageProducts.resources
+C:\Users\Gian\Documents\citech-20241217T122919Z-001\citech\citech\citech\citech\obj\Debug\net8.0-windows\citech.FormManageUsers.resources
+C:\Users\Gian\Documents\citech-20241217T122919Z-001\citech\citech\citech\citech\obj\Debug\net8.0-windows\citech.FormSalesOverview.resources
+C:\Users\Gian\Documents\citech-20241217T122919Z-001\citech\citech\citech\citech\obj\Debug\net8.0-windows\citech.FormStaff.resources
+C:\Users\Gian\Documents\citech-20241217T122919Z-001\citech\citech\citech\citech\obj\Debug\net8.0-windows\citech.LandingPage.resources
+C:\Users\Gian\Documents\citech-20241217T122919Z-001\citech\citech\citech\citech\obj\Debug\net8.0-windows\citech.Resources.resources
+C:\Users\Gian\Documents\citech-20241217T122919Z-001\citech\citech\citech\citech\obj\Debug\net8.0-windows\citech.vbproj.GenerateResource.cache
+C:\Users\Gian\Documents\citech-20241217T122919Z-001\citech\citech\citech\citech\obj\Debug\net8.0-windows\citech.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gian\Documents\citech-20241217T122919Z-001\citech\citech\citech\citech\obj\Debug\net8.0-windows\citech.AssemblyInfoInputs.cache
+C:\Users\Gian\Documents\citech-20241217T122919Z-001\citech\citech\citech\citech\obj\Debug\net8.0-windows\citech.AssemblyInfo.vb
+C:\Users\Gian\Documents\citech-20241217T122919Z-001\citech\citech\citech\citech\obj\Debug\net8.0-windows\citech.vbproj.CoreCompileInputs.cache
+C:\Users\Gian\Documents\citech-20241217T122919Z-001\citech\citech\citech\citech\obj\Debug\net8.0-windows\citech.vbproj.Up2Date
+C:\Users\Gian\Documents\citech-20241217T122919Z-001\citech\citech\citech\citech\obj\Debug\net8.0-windows\citech.dll
+C:\Users\Gian\Documents\citech-20241217T122919Z-001\citech\citech\citech\citech\obj\Debug\net8.0-windows\refint\citech.dll
+C:\Users\Gian\Documents\citech-20241217T122919Z-001\citech\citech\citech\citech\obj\Debug\net8.0-windows\citech.pdb
+C:\Users\Gian\Documents\citech-20241217T122919Z-001\citech\citech\citech\citech\obj\Debug\net8.0-windows\citech.genruntimeconfig.cache
+C:\Users\Gian\Documents\citech-20241217T122919Z-001\citech\citech\citech\citech\obj\Debug\net8.0-windows\ref\citech.dll
+C:\Users\antho\OneDrive\Desktop\citech\citech\bin\Debug\net8.0-windows\citech.exe
+C:\Users\antho\OneDrive\Desktop\citech\citech\bin\Debug\net8.0-windows\citech.deps.json
+C:\Users\antho\OneDrive\Desktop\citech\citech\bin\Debug\net8.0-windows\citech.runtimeconfig.json
+C:\Users\antho\OneDrive\Desktop\citech\citech\bin\Debug\net8.0-windows\citech.dll
+C:\Users\antho\OneDrive\Desktop\citech\citech\bin\Debug\net8.0-windows\citech.pdb
+C:\Users\antho\OneDrive\Desktop\citech\citech\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\antho\OneDrive\Desktop\citech\citech\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\antho\OneDrive\Desktop\citech\citech\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\antho\OneDrive\Desktop\citech\citech\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\antho\OneDrive\Desktop\citech\citech\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\antho\OneDrive\Desktop\citech\citech\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\antho\OneDrive\Desktop\citech\citech\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\antho\OneDrive\Desktop\citech\citech\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\antho\OneDrive\Desktop\citech\citech\bin\Debug\net8.0-windows\System.Text.Json.dll
+C:\Users\antho\OneDrive\Desktop\citech\citech\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\antho\OneDrive\Desktop\citech\citech\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\antho\OneDrive\Desktop\citech\citech\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\antho\OneDrive\Desktop\citech\citech\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\antho\OneDrive\Desktop\citech\citech\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\antho\OneDrive\Desktop\citech\citech\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\antho\OneDrive\Desktop\citech\citech\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\antho\OneDrive\Desktop\citech\citech\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\antho\OneDrive\Desktop\citech\citech\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\antho\OneDrive\Desktop\citech\citech\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\antho\OneDrive\Desktop\citech\citech\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\antho\OneDrive\Desktop\citech\citech\obj\Debug\net8.0-windows\citech.vbproj.AssemblyReference.cache
+C:\Users\antho\OneDrive\Desktop\citech\citech\obj\Debug\net8.0-windows\citech.Form1.resources
+C:\Users\antho\OneDrive\Desktop\citech\citech\obj\Debug\net8.0-windows\citech.FormAdmin.resources
+C:\Users\antho\OneDrive\Desktop\citech\citech\obj\Debug\net8.0-windows\citech.FormManageProducts.resources
+C:\Users\antho\OneDrive\Desktop\citech\citech\obj\Debug\net8.0-windows\citech.FormManageUsers.resources
+C:\Users\antho\OneDrive\Desktop\citech\citech\obj\Debug\net8.0-windows\citech.FormSalesOverview.resources
+C:\Users\antho\OneDrive\Desktop\citech\citech\obj\Debug\net8.0-windows\citech.FormStaff.resources
+C:\Users\antho\OneDrive\Desktop\citech\citech\obj\Debug\net8.0-windows\citech.LandingPage.resources
+C:\Users\antho\OneDrive\Desktop\citech\citech\obj\Debug\net8.0-windows\citech.Resources.resources
+C:\Users\antho\OneDrive\Desktop\citech\citech\obj\Debug\net8.0-windows\citech.vbproj.GenerateResource.cache
+C:\Users\antho\OneDrive\Desktop\citech\citech\obj\Debug\net8.0-windows\citech.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antho\OneDrive\Desktop\citech\citech\obj\Debug\net8.0-windows\citech.AssemblyInfoInputs.cache
+C:\Users\antho\OneDrive\Desktop\citech\citech\obj\Debug\net8.0-windows\citech.AssemblyInfo.vb
+C:\Users\antho\OneDrive\Desktop\citech\citech\obj\Debug\net8.0-windows\citech.vbproj.CoreCompileInputs.cache
+C:\Users\antho\OneDrive\Desktop\citech\citech\obj\Debug\net8.0-windows\citech.vbproj.Up2Date
+C:\Users\antho\OneDrive\Desktop\citech\citech\obj\Debug\net8.0-windows\citech.dll
+C:\Users\antho\OneDrive\Desktop\citech\citech\obj\Debug\net8.0-windows\refint\citech.dll
+C:\Users\antho\OneDrive\Desktop\citech\citech\obj\Debug\net8.0-windows\citech.pdb
+C:\Users\antho\OneDrive\Desktop\citech\citech\obj\Debug\net8.0-windows\citech.genruntimeconfig.cache
+C:\Users\antho\OneDrive\Desktop\citech\citech\obj\Debug\net8.0-windows\ref\citech.dll
